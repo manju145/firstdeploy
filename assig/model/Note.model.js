@@ -7,6 +7,7 @@ const NoteSchema=mongoose.Schema({
     
     category:{type:String,required:true}
 },{
+    
     versionKey:false
 })
 
